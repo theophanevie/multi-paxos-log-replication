@@ -1,0 +1,30 @@
+servers : 4
+repl :
+  - 'START'
+  - 'EXIT'
+clients:
+  - client : 0
+    msg :
+      - 0
+  - client : 1
+    msg :
+      - 1
+      - 8
+      - 9
+  - client : 2
+    msg :
+      - 2
+  - client : 3
+    msg :
+      - 3
+      - 14
+  - client : 4
+    msg :
+      - 4
+  - client : 5
+    msg :
+      - 5
+      - 10
+  - client : 6
+    msg :
+      - 6

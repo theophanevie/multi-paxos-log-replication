@@ -1,0 +1,17 @@
+servers : 3
+clients:
+  - client : 0
+    msg :
+      - 0
+      - 3
+      - 6
+  - client : 1
+    msg :
+      - 1
+      - 4
+      - 7
+  - client : 2
+    msg :
+      - 2
+      - 5
+      - 8

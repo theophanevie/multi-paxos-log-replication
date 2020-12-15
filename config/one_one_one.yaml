@@ -1,0 +1,8 @@
+servers : 1
+repl :
+  - 'START'
+  - 'EXIT'
+clients:
+  - client : 0
+    msg :
+      - 0
